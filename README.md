@@ -1,10 +1,10 @@
 # Analise de Dados
 
-
-Repositório contendo uma coletânea de scripts em Python desenvolvidos para aprimorar habilidades e explorar conceitos fundamentais de ciência de dados. Abrange desde a manipulação e limpeza de dados até a visualização e análise exploratória, utilizando bibliotecas populares como Pandas, Matplotlib, Seaborn, e outras.
+Este projeto é uma coleção de scripts em Python focada em estudos práticos de ciência de dados. 
 
 ## Descrição
 
+Repositório contendo uma coletânea de scripts em Python desenvolvidos para aprimorar habilidades e explorar conceitos fundamentais de ciência de dados. Abrange desde a manipulação e limpeza de dados até a visualização e análise exploratória, utilizando bibliotecas populares como Pandas, Matplotlib, Seaborn, e outras.
 
 
 ## Dependências
@@ -54,14 +54,14 @@ Este projeto utiliza as seguintes bibliotecas Python:
     * **Normalização de texto:** Remover acentos e caracteres especiais de strings, facilitando a manipulação e comparação de textos, especialmente em nomes de arquivos ou dados de entrada.
     * **Padronização de dados:** Garantir que os dados textuais estejam em um formato consistente, evitando problemas causados por diferentes codificações de caracteres.
 
-    Documentação do Unidecode: [https://pypi.org/project/Unidecode/](https://www.google.com/url?sa=E&source=gmail&q=https://pypi.org/project/Unidecode/)
+    Documentação do Unidecode: [https://pypi.org/project/Unidecode/](https://pypi.org/project/Unidecode/)
 
 * **Chardet:** Uma biblioteca para detecção automática da codificação de caracteres em um arquivo ou string. Chardet pode ser útil neste projeto para:
 
     * **Identificação de codificação:**  Determinar a codificação de arquivos de texto (por exemplo, UTF-8, Latin-1) para que possam ser lidos corretamente.
     * **Prevenção de erros:** Evitar erros de decodificação ao lidar com arquivos de diferentes fontes que podem usar codificações variadas.
 
-    Mais informações sobre o Chardet: [https://pypi.org/project/chardet/](https://www.google.com/url?sa=E&source=gmail&q=https://pypi.org/project/chardet/)
+    Mais informações sobre o Chardet: [https://pypi.org/project/chardet/](https://pypi.org/project/chardet/)
 
 * **Kaggle Hub:**  Uma biblioteca cliente para interagir com o Kaggle, uma plataforma para competições de ciência de dados, compartilhamento de datasets e kernels. Neste projeto, o Kaggle Hub pode ser utilizado para:
 
@@ -102,8 +102,8 @@ Siga os passos abaixo para instalar e configurar o ambiente de desenvolvimento:
 1.  **Clone o repositório:**
 
     ```bash
-    git clone git@github.com:natanfiuza/ball_in_hexagon.git
-    cd ball_in_hexagon
+    git clone git@github.com:natanfiuza/analise_dados.git
+    cd analise_dados
     ```
 
 2.  **Instale as dependências usando o `pipenv`:**
