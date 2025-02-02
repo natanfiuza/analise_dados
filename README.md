@@ -152,7 +152,7 @@ Este projeto contém vários scripts Python, cada um tem sua função para teste
     Execute o script correspondente usando o comando `python`. Por exemplo:
 
     ```bash
-    python chatgpt.py
+    python dados_funcionarios.py
     ```
 
 
@@ -195,4 +195,4 @@ Para qualquer dúvida, sugestão ou feedback, entre em contato:
 
 **Email:** [contato@natanfiuza.dev.br](mailto:contato@natanfiuza.dev.br)
 
-Espero que este projeto seja útil e inspirador para estudantes e entusiastas da programação Python!
+Espero que este projeto seja útil e inspirador para estudantes e entusiastas da programação Python e da Ciência de Dados!
