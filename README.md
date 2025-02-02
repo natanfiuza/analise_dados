@@ -180,7 +180,6 @@ Gostaria de expressar minha profunda gratidão a todos que contribuíram direta 
 *   Às comunidades de desenvolvedores das bibliotecas `Pandas`, `Matplotlib`, `Seaborn`, `Unidecode`, `Chardet`, `Kaggle Hub`, `Pygame` e `NumPy`. O trabalho árduo e a dedicação de vocês tornaram possível a criação de ferramentas poderosas e acessíveis para a comunidade de ciência de dados.
 *   À plataforma Kaggle, por fornecer um ambiente rico em recursos e datasets, e por fomentar uma comunidade vibrante de cientistas de dados e aprendizes de máquina.
 *   A todos os criadores de conteúdo, tutoriais e documentações que compartilharam seus conhecimentos e experiências online. O aprendizado contínuo é essencial na área de ciência de dados, e o material disponibilizado por vocês foi de grande valia.
-*   Aos meus colegas e mentores que revisaram este projeto, ofereceram feedback construtivo e compartilharam insights valiosos.
 *   E, finalmente, a todos que se interessam por ciência de dados e que buscam, através da análise e interpretação de dados, contribuir para um mundo mais informado e consciente.
 
 Este projeto é dedicado a todos que acreditam no poder dos dados e na importância da análise rigorosa e da visualização eficaz para a tomada de decisões e a geração de conhecimento. Que este trabalho possa inspirar outros a explorar o vasto e fascinante campo da ciência de dados com Python.
