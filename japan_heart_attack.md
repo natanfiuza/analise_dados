@@ -2,6 +2,9 @@
 
 Estudo comparativo do risco de ataque cardíaco em jovens e adultos japoneses
 
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.kaggle.com/datasets/ashaychoudhary/heart-attack-in-japan-youth-vs-adult" style="background-color: white;padding: 7px;">View on Kaggle</a>
+
 ## Sobre o conjunto de dados
 
 Este conjunto de dados oferece uma exploração aprofundada de incidentes de ataque cardíaco no Japão, com foco nas diferenças entre grupos etários jovens e adultos. Com a crescente prevalência de doenças cardiovasculares em todo o mundo, este conjunto de dados fornece insights críticos sobre os perfis de saúde, fatores de risco e gatilhos potenciais associados a ataques cardíacos entre dois grupos demográficos distintos.
