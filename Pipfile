@@ -12,6 +12,7 @@ unidecode = "*"
 chardet = "*"
 kagglehub = "*"
 numpy = "*"
+tabulate = "*"
 
 [dev-packages]
 
