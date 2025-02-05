@@ -72,7 +72,7 @@ insights = [
 # Posição inicial dos botões
 button_x = WIDTH // 2 - 150
 button_y = 150
-button_width = 300
+button_width = 380
 button_height = 50
 button_spacing = 20
 
